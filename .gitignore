@@ -8,4 +8,4 @@ npm-debug.log
 .sass-cache/
 *.css.map
 
-.idea/
+.idea
